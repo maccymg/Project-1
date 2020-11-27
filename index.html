@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <script src="scripts/app.js" charset="utf-8"></script>
+  <title>My Project</title>
+</head>
+<body>
+  <audio id="audio"></audio>
+  <audio id="audio-two"></audio>
+  <header>
+    <div class="header-content">
+      <h1>Snake</h1>
+      <p>Instructions Bellow</p>
+      <button id="start">Begin!</button>
+    </div>
+  </header>
+  <main>
+    <section>
+      <img src="https://static.thenounproject.com/png/335640-200.png" alt="Arrow Keys">
+      <p>Arrow Left</p>
+      <p>Arrow Up</p>
+      <p>Arrow Down</p>
+      <p>Arrow Right</p>
+      <div class="audio-class">
+      <p><span class="b-music">Background Audio</span></p>
+      <label id="switch">
+        <input type="button" value="Off/On">
+      </label>
+    </div>
+    </section>
+    <section class="grid-wrapper">
+      <div class="grid"></div>
+    </section>
+    <section>
+      <p>Current Score: <span id="score">0</span></p>
+      <p>High Score: <span id="high-score">0</span></p>
+      <div class="colors">
+        <div class="c-one">
+          <div class="classic"></div>
+          <p>Classic</p>
+        </div>
+        <div class="c-two">
+          <div class="neon"></div>
+          <p>Neon</p>
+        </div>
+        <div class="c-three">
+          <div class="moon"></div>
+          <p>Moon</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <h2>Instructions</h2>
+    <p>Its's the old classic, Navigate your snake around the grid without crashing into the edge or yourself.</p>
+    <p>Eat the food to grow. The longer you are, the higher your score!</p>
+  </footer>
+</body>
+</html>
