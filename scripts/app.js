@@ -346,7 +346,6 @@ function init() {
       updateScore()
       updateHighScore()
       updateTime(startTimer, timerId)
-      console.log(snakePosition)
     }, time)
 
     startBtn.removeEventListener('click', startTimer)
