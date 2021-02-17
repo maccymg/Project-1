@@ -15,7 +15,7 @@ In this project, I was tasked with building a grid based game out of a list of o
  URL - https://bit.ly/3a1x3im
 
 
- # General approach took:
+ ## General approach took:
 
 This project was my first attempt at coding a web application. After initially beign drawn to battleships and minesweeper as these were games I enjoyed I settled on doing snake. This seemed like a more balanced game than the others as the logic for informed computer decisions seemed very tough for me as I was very new to coding. Having carefully planned out how I would approach the games different requirements I began to implement them.
 
