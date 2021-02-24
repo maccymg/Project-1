@@ -89,6 +89,6 @@ A big win was planning and implementing the logic behind moving the snake. By us
  
 ### Key Learning:
 
-Key learning included keycodes, classes, arrays, selectors and event listeners.
+Key learning included fucntions, keycodes, classes, arrays, selectors and event listeners.
 
 
