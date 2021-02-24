@@ -15,7 +15,7 @@ In this project, I was tasked with building a grid based game out of a list of o
  URL - https://bit.ly/3a1x3im
 
 
- ## General approach took:
+ ## General approach taken:
 
 This project was my first attempt at coding a web application. After initially beign drawn to battleships and minesweeper as these were games I enjoyed I settled on doing snake. This seemed like a more balanced game than the others as the logic for informed computer decisions seemed very tough for me as I was very new to coding. Having carefully planned out how I would approach the games different requirements I began to implement them.
 
@@ -80,6 +80,15 @@ function startTimer() {
 
 ```
 
-Having got the game logic working I set about creating the score and the logic behind resetting the game. Having then improved the styling of the page adding new color options for the game and adding audio I finally sorted a few bugs and delt with arrow scrolling on the page.
+Having got the game logic working I set about creating the score and the logic behind resetting the game. Having then improved the styling of the page adding new color options for the game and adding audio I finally sorted a few bugs and delt with arrow scrolling on the page. This was a very fun first introduction to coding under time pressure, using intervals, selectors and event listeners and it was very good learning curve for vanilla javascript and was hugely beneficial for my development.
 
-This was a very fun first introduction to coding under time pressure, using intervals, selectors and event listeners and it was very good learning curve for vanilla javascript and was hugely beneficial for my development.
+## Wins:
+
+A big win was planning and implementing the logic behind moving the snake. By using the keys to set the current direction of the snake I could then deal with manipulating arrays and changing classes knowing the next position of the snake. 
+ 
+ 
+## Key Learning:
+
+Key learning included keycodes, classes, arrays, selectors and event listeners.
+
+
