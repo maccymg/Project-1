@@ -82,12 +82,12 @@ function startTimer() {
 
 Having got the game logic working I set about creating the score and the logic behind resetting the game. Having then improved the styling of the page adding new color options for the game and adding audio I finally sorted a few bugs and delt with arrow scrolling on the page. This was a very fun first introduction to coding under time pressure, using intervals, selectors and event listeners and it was very good learning curve for vanilla javascript and was hugely beneficial for my development.
 
-## Wins:
+### Wins:
 
 A big win was planning and implementing the logic behind moving the snake. By using the keys to set the current direction of the snake I could then deal with manipulating arrays and changing classes knowing the next position of the snake. 
  
  
-## Key Learning:
+### Key Learning:
 
 Key learning included keycodes, classes, arrays, selectors and event listeners.
 
