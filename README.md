@@ -80,7 +80,7 @@ function startTimer() {
 
 ```
 
-Having got the game logic working I set about creating the score and the logic behind resetting the game. Having then improved the styling of the page adding new color options for the game and adding audio I finally sorted a few bugs and delt with arrow scrolling on the page. This was a very fun first introduction to coding under time pressure, using intervals, selectors and event listeners and it was very good learning curve for vanilla javascript and was hugely beneficial for my development.
+Having got the game logic working I set about creating the score and the logic behind resetting the game. Having then improved the styling of the page adding new color options for the game and adding audio I finally sorted a few bugs and delt with arrow scrolling on the page. This was a very fun first introduction to coding under time pressure, using intervals, selectors and event listeners and it was very good learning curve for vanilla JavaScript and was hugely beneficial for my development.
 
 ### Wins:
 
@@ -89,6 +89,10 @@ A big win was planning and implementing the logic behind moving the snake. By us
  
 ### Key Learning:
 
-Key learning included fucntions, keycodes, classes, arrays, selectors and event listeners.
+Key learning included functions, keycodes, classes, arrays, selectors and event listeners.
+
+### Future Features:
+
+If i had more time I would like to have used local storage to set the high score as while it works when using the app, upon refreshing the screen or revisiting the site this data is lost. I would also refactor the existing code as I was largely focusing on bug fixing and styling towards the end so didn't have time to do this.
 
 
